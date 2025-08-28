@@ -1,0 +1,68 @@
+0,Station Name,Station No.,Station ID,Station Type,Station Easting,Station Northing
+1,Annan (Creca),336398,40115,GroundwaterLevel,321950.0008,571049.9995
+2,Arabella Junction,300350,40018,GroundwaterLevel,280700.0007,875899.9997
+3,Auldearn Junction,300348,40010,GroundwaterLevel,290280.0007,856220.9999
+4,Barbush Farm BH,460188,40348,GroundwaterLevel,296008.0008,572607.9994
+5,Carmyllie War Memorial Obs BH,348952,40204,GroundwaterLevel,355283.0008,742772.0001
+6,Cookston Deep,17064,39774,GroundwaterLevel,333959.0008,747995.0004
+7,Cookston Shallow,17065,39778,GroundwaterLevel,333964.0008,747989.0001
+8,Craigmill Burn Observation Borehole,7926,40498,GroundwaterLevel,357504.0008,735946.9996
+9,Crombie Country Park Obs BH,348956,40208,GroundwaterLevel,352293.0008,741418
+10,Dallachy,115215,39151,GroundwaterLevel,336400.0008,864200.0002
+11,Deerdykes Wood Deep Bedrock Borehole,365223,40243,GroundwaterLevel,388069.0008,833721.9999
+12,Deerdykes Wood Shallow Bedrock BH,365222,40239,GroundwaterLevel,388058.0008,833726
+13,Delgaty,336852,40163,GroundwaterLevel,376079.0008,850886.0003
+14,Dipple E,336516,40144,GroundwaterLevel,332400.0008,857819.9996
+15,Dipple G,336517,40148,GroundwaterLevel,333120.0008,858539.9997
+16,Dipple XD,336518,40152,GroundwaterLevel,333650.0008,858770.0001
+17,Dipple Z,336511,40140,GroundwaterLevel,333750.0008,858719.9997
+18,Drumine BH2 Brackley Junction West,378644,40302,GroundwaterLevel,279598.0008,851768.0001
+19,Duncow Deep Obs BH Dumfries,459910,40340,GroundwaterLevel,296417.0008,583388.9999
+20,Duncow Shallow Obs BH,459909,40336,GroundwaterLevel,296417.0008,583388.9999
+21,East Fenton Borehole,17374,39802,GroundwaterLevel,351960.0008,681120.0003
+22,East Lathrisk Borehole,335659,40094,GroundwaterLevel,328366.0008,708019.9998
+23,Easter Balgedie Farm Obs BH Kinross,379371,40318,GroundwaterLevel,317169.0008,703970.0003
+24,Falkland WTW Obs BH,515538,40426,GroundwaterLevel,325820.0008,707100
+25,Feddan Junction,300349,40014,GroundwaterLevel,296900.0007,856600
+26,Fife Coalfield - Air Shaft 18,542704,40477,GroundwaterLevel,315304.0008,687928.9996
+27,Fife Coalfield - Air Shaft 7,541753,40471,GroundwaterLevel,315032.0008,686295.9999
+28,Fife Coalfield - Void monitoring point,542705,40481,GroundwaterLevel,315220.0008,687470.0003
+29,Glamis Castle (Drift),17068,39790,GroundwaterLevel,337664.0008,748844.9999
+30,Glamis Castle (Solid),17067,39786,GroundwaterLevel,337664.0008,748844.0002
+31,Glamis Petrol Station,17066,39782,GroundwaterLevel,338540.0008,746396.0005
+32,Gretna (Douglas Tanks),336403,40119,GroundwaterLevel,331050.0008,569250.0001
+33,Hill of Fearn farm,300351,40022,GroundwaterLevel,284900.0008,876700.0007
+34,Holywood,336411,40123,GroundwaterLevel,295950.0008,581749.9999
+35,Ironhirst Moss,133761,39469,GroundwaterLevel,304966.0008,570789.9994
+36,Kettlebridge Obs BH,445764,40325,GroundwaterLevel,331080.0008,707700.0004
+37,Kirkton Mill Drift Obs BH,348944,40200,GroundwaterLevel,365467.0008,749438.0005
+38,Knowehead shallow obs BH Freuchie,379369,40310,GroundwaterLevel,327907.0008,706989.0004
+39,Knowhead,14458,39485,GroundwaterLevel,327837.0008,706961.0002
+40,Lathrisk Home Obs BH,328778,40056,GroundwaterLevel,327468.0008,708355.0004
+41,Lochmaben,336419,40127,GroundwaterLevel,306850.0008,583450.0003
+42,Longbridgemuir Farm,133760,39465,GroundwaterLevel,307033.0007,568890.9996
+43,Longman Tip BH16,322406,40038,GroundwaterLevel,268964.0008,845837.0005
+44,Luffness Borehole,17156,39798,GroundwaterLevel,348010.0008,680190.0004
+45,Mains of Balgavies Deep sst Obs BH,348936,40192,GroundwaterLevel,353387.0008,751427.9997
+46,Mains of Balgavies Shallow Sst Bedrock B,348939,40196,GroundwaterLevel,353387.0008,751424.9995
+47,Maryfield Shallow Obs BH,459908,40332,GroundwaterLevel,293840.0008,578162.0002
+48,Maverston Farm BH3,340431,40172,GroundwaterLevel,330329.0008,863569.0003
+49,Mill of Keithfield BH,365228,40255,GroundwaterLevel,383944.0008,833882
+50,Milton Farm BH - Moffat,336432,40135,GroundwaterLevel,309550.0008,600749.9994
+51,Murton Nature Reserve Observation BH,348935,40188,GroundwaterLevel,349258.0008,751109.0003
+52,Newbridge,336526,40156,GroundwaterLevel,295150.0008,578849.9995
+53,Newton of Falkland Borehole,14419,39481,GroundwaterLevel,326604.0008,707442.0002
+54,Prop of Ythsie Borehole,365224,40247,GroundwaterLevel,388032.0008,831126.9998
+55,Racks Moss Deep,133763,39477,GroundwaterLevel,302936.0007,572768
+56,Racks Moss Drift,133762,39473,GroundwaterLevel,302944.0008,572715.0002
+57,Redbank,336427,40131,GroundwaterLevel,296750.0007,574249.9999
+58,Redford,17069,39794,GroundwaterLevel,341854.0008,751691
+59,Redmoss Oldtown BH,365226,40251,GroundwaterLevel,382489.0008,832218.0001
+60,Reedieleys Farm Obs BH Dunshalt,379368,40306,GroundwaterLevel,324334.0008,710931.0001
+61,Rhynie,335798,40100,GroundwaterLevel,350119.0008,827482.0001
+62,Roseisle Maltings,331473,40064,GroundwaterLevel,312255.0007,865275.9998
+63,Scotlandwell,335655,40090,GroundwaterLevel,319009.0008,701582
+64,Scottish Seafarms BH2,335201,40068,GroundwaterLevel,250924.0007,844008.0004
+65,Sheills Obs BH,328782,40060,GroundwaterLevel,328221.0008,708950.9998
+66,Strathmiglo Obs BH Strathmiglo,379370,40314,GroundwaterLevel,322160.0008,710162.9995
+67,Waterside Farm Obs BH,459911,40344,GroundwaterLevel,295295.0008,573893.9997

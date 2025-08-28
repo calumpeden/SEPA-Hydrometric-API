@@ -1,0 +1,8 @@
+v2.0 - Not extracting data for specified periods of record
+v2.0 - Not providing number of stations in text output properly
+v2.1 - Include missing data for continuous periods of record
+v2.1 - Update to include pool of API keys
+v2.1 - Add option to generate rating equations
+v2.1 - Add option to extract blocks of data for all high flow events
+v2.1 - Look at how to get the actual date of AMAX rather than just water year
+v2.1 - Station search requires capital letters at the start now - fix
